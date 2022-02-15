@@ -8,7 +8,10 @@ I have experience developing internal, offline systems, as exhibited in my most 
 
 ...
 
-🧰
+🧰Toolbox
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"> alt="HTML5 logo width="50px" height="50px"
 
 <!--
 **eulersBrick/eulersBrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
