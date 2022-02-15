@@ -19,7 +19,7 @@ I have experience developing internal, offline systems, as exhibited in my most 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulersBrick)](https://github.com/eulersBrick/github-readme-stats)
 
-[![Siegfried stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Siegfried stats](https://github-readme-stats.vercel.app/api/wakatime?username=eulersBrick)](https://github.com/eulersBrick/github-readme-stats)
 
 
 ---
