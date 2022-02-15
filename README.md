@@ -8,11 +8,19 @@ I have experience developing internal, offline systems, as exhibited in my most 
 
 ---
 
-🧰Toolbox
+### 🧰Toolbox
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="C++ Logo" width="50px" height="50px" />
 
+---
+
+### 📈 Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulersBrick)](https://github.com/eulersBrick/github-readme-stats)
+
+
+---
 
 <!--
 **eulersBrick/eulersBrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
